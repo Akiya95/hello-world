@@ -5,3 +5,4 @@ node_js:
 before_script:
   - npm install
   - ls 
+  - ping 10.167.12.146 -c 4
