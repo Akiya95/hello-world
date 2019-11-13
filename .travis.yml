@@ -1,4 +1,0 @@
-language: java
-jvm:
-  - "java"
-  - "1.8"
